@@ -1,6 +1,8 @@
 # Traffic_light_controller
 Digital circuit, Verilog, RTL level
 
+PREAMBLE: the sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". 
+
 **1. The sourses "Traffic_light_controller_RTL_..."**
 
 The source codes "Traffic_light_controller_RTL_..." are describing traffic light controller on RTL level and consists of:
