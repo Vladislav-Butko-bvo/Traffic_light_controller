@@ -22,6 +22,7 @@ The source code "Traffic_light_controller_**RTL_for_implementation**" IS intende
 
 The source code "Traffic_light_controller_**HIGH**" is describing traffic light controller with highest level Verilog constructions.
 For example, 1-4 modules of RTL description were described using one always block.
+Two hours were spent to describe controller on high level. 
 Result of testing:
 ![High level description testing](https://github.com/user-attachments/assets/de25708e-30f1-4132-b3db-55a08c1cd255)
 
