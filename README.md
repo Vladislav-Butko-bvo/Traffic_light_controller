@@ -1,7 +1,9 @@
 # Traffic_light_controller
 Digital circuit, Verilog, RTL level
 
-PREAMBLE: the sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". 
+**PREAMBLE** 
+
+the sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". 
 
 **1. The sourses "Traffic_light_controller_RTL_..."**
 
