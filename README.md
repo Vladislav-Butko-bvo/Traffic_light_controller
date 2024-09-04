@@ -20,7 +20,7 @@ The source codes "Traffic_light_controller_RTL_..." are describing traffic light
  
 Submodules interconnections diagram of "Traffic_light_controller_RTL_..." module:
 
-![Submodules interconnections diagram for RTL implementation](https://github.com/user-attachments/assets/be9ea7eb-935d-4b9f-b66e-452712a6958d)
+![Submodules interconnections diagram of "Traffic_light_controller_RTL_..." module](https://github.com/user-attachments/assets/be9ea7eb-935d-4b9f-b66e-452712a6958d)
 
 Ten hours were spent to describe controller on RTL level. 
 
@@ -28,13 +28,18 @@ Ten hours were spent to describe controller on RTL level.
 
 The source code "Traffic_light_controller_RTL_for_testing" IS NOT intended for implementation becouse contain additional top module outputs are intended for top module testing by Waveforms.
 
-Result of testing:
+RTL description (for testing) testing:
 
-![RTL description testing](https://github.com/user-attachments/assets/9cb02b07-31c9-4fab-8aa9-f4082107d8c0)
+![RTL description (for testing) testing](https://github.com/user-attachments/assets/9cb02b07-31c9-4fab-8aa9-f4082107d8c0)
 
 **1.2. The source "Traffic_light_controller_RTL_for_implementation"**
 
 The source code "Traffic_light_controller_RTL_for_implementation" IS intended for implementation becouse test outputs was removed.
+
+RTL description (for implementation) testing:
+
+![RTL description (for implementation) testing](https://github.com/user-attachments/assets/17a38aa5-199d-49e1-a8fa-f4d53cb2914a)
+
 
 **2. The source "Traffic_light_controller_HIGH"**
 
@@ -43,7 +48,7 @@ For example, 1-4 modules of RTL description were described using one always bloc
 
 This source can be used both for testing and for implementation.
 
-Result of testing:
+High level description testing:
 
 ![High level description testing](https://github.com/user-attachments/assets/de25708e-30f1-4132-b3db-55a08c1cd255)
 
