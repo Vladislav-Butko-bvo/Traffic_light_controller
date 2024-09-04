@@ -1,5 +1,5 @@
 # Traffic_light_controller
-Digital circuit, Verilog, RTL level
+Digital circuits, Verilog HDL, Xilinx, RTL level
 
 **PREAMBLE** 
 
