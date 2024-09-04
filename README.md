@@ -3,6 +3,8 @@ Digital circuit, Verilog, RTL level
 
 **PREAMBLE** 
 
+To do testing of sources in need   
+
 The sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". Because this sources are functionally equivalent, the lack of comments for last source can be compensated by comments in first sources.  
 
 **1. The sourses "Traffic_light_controller_RTL_..."**
@@ -38,6 +40,8 @@ The source code "Traffic_light_controller_RTL_for_implementation" IS intended fo
 
 The source code "Traffic_light_controller_HIGH" is describing traffic light controller with highest level Verilog constructions.
 For example, 1-4 modules of RTL description were described using one always block.
+
+This source can be used both for testing and for implementation.
 
 Result of testing:
 
