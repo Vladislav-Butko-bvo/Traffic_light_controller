@@ -3,7 +3,7 @@ Digital circuit, Verilog, RTL level
 
 **PREAMBLE** 
 
-the sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". 
+The sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". Because this sources are functionally equivalent, the lack of comments for last source can be compensated by comments in first sources.  
 
 **1. The sourses "Traffic_light_controller_RTL_..."**
 
