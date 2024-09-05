@@ -13,7 +13,7 @@ To do testing of sources in Vivado need to apart synthesizable modules from test
 
 The sourses "Traffic_light_controller_RTL_..." is better commented comparing with the source "Traffic_light_controller_HIGH". Because this sources are functionally equivalent, the lack of comments for last source can be compensated by comments from first sources.  
 
-**1. ABOUT SOURCES"**
+**1. ABOUT SOURCES**
 
 **1.1. The sourses "Traffic_light_controller_RTL_..."**
 
