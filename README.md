@@ -74,7 +74,7 @@ Comparison of methods relative to RTL:
 - LUTs is slightly worse or the same;
 - time in hours for developing much worse (spent 5 times more time).
 
-**CONCLUSION**
+**CONCLUSIONS**
 
 The RTL description uses both smaller and larger amounts of FPGA resources, depending on the resource class. Therefore, it cannot be said that the RTL description will always use fewer resources. Moreover, the difference in the time spent on the development of descriptions is much greater than the difference in the resources used in favor of a high-level description.
 
