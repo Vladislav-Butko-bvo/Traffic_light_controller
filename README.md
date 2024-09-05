@@ -3,7 +3,7 @@ Digital circuits, FPGA, Xilinx, Verilog HDL, RTL level
 
 **PREAMBLE** 
 
-Is investigated practical sense of going down the level of abstraction in Verilog HDL. Particularly, are compared higest and RTL levels. 
+Is investigated practical sense of going down the level of abstraction in Verilog HDL. Particularly, are compared highest and RTL levels. 
 
 Weaknesses of the research methodology: 
 - project can don't meet functional requirements while timing and post-implementation simulations;
