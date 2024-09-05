@@ -65,6 +65,7 @@ For implementation was used virtual Xilinx device xc7k70tfbv676-1 (family Kintex
 Diargam includes FPGA resource used for each description level and time in hours for developing: 
 
 ![Diargam is including FPGA resource used for each description level and time in hours for developing](https://github.com/user-attachments/assets/05b016f0-a715-4085-852a-737e9d70f4fc)
+
 Comparison of methods relative to RTL:
 - FDRE is slightly better (less FPGA resource used);
 - OBUF is slightly better;
