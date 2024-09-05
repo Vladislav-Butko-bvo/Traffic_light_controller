@@ -15,7 +15,7 @@ The sourses "Traffic_light_controller_RTL_..." is better commented comparing wit
 
 **1. ABOUT SOURCES**
 
-**1.1. The sourses "Traffic_light_controller_RTL_...**
+**1.1. The sourses "Traffic_light_controller_RTL_..."**
 
 Are describing traffic light controller on RTL level and contains follow synthesible modules:
 1) not gate; 
@@ -30,7 +30,7 @@ Submodules interconnections diagram of "Traffic_light_controller_RTL_..." source
 
 ![Submodules interconnections diagram of "Traffic_light_controller_RTL_..." sources](https://github.com/user-attachments/assets/be9ea7eb-935d-4b9f-b66e-452712a6958d)
 
-**1.1.1. The source "Traffic_light_controller_RTL_for_testing**
+**1.1.1. The source "Traffic_light_controller_RTL_for_testing"**
 
 IS NOT intended for implementation becouse contain additional top module outputs need for testing using waveforms.
 
@@ -38,7 +38,7 @@ Behavioral simulation before implementation and synthesis:
 
 ![RTL description (for testing) behavioral simulation before implementation and synthesis](https://github.com/user-attachments/assets/9cb02b07-31c9-4fab-8aa9-f4082107d8c0)
 
-**1.1.2 The source "Traffic_light_controller_RTL_for_implementation**
+**1.1.2 The source "Traffic_light_controller_RTL_for_implementation"**
 
 IS intended for implementation becouse test outputs was removed.
 
@@ -47,7 +47,7 @@ Behavioral simulation before implementation and synthesis:
 ![RTL description (for implementation) behavioral simulation before implementation and synthesis](https://github.com/user-attachments/assets/17a38aa5-199d-49e1-a8fa-f4d53cb2914a)
 
 
-**1.2. The source "Traffic_light_controller_HIGH**
+**1.2. The source "Traffic_light_controller_HIGH"**
 
 Is describing traffic light controller with highest level Verilog constructions.
 For example, 1-4 modules of RTL description were described using one always block.
