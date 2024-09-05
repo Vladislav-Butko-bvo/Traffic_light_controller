@@ -63,6 +63,7 @@ Behavioral simulation before implementation and synthesis:
 For implementation was used virtual Xilinx device xc7k70tfbv676-1 (family Kintex-7). "Traffic_light_controller_RTL_for_implementation" and "Traffic_light_controller_HIGH" sources was implemented.  
 
 Diargam includes FPGA resource used for each description level and time in hours for developing: 
+
 ![Diargam is including FPGA resource used for each description level and time in hours for developing](https://github.com/user-attachments/assets/05b016f0-a715-4085-852a-737e9d70f4fc)
 
 Comparison of methods relative to RTL:
