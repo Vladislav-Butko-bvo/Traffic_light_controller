@@ -24,6 +24,7 @@ Are describing traffic light controller on RTL level and contains follow synthes
 4) sum circuit;
 5) moore machine;
 6) ALU (data path).
+
 1-4 modules are part of PWM generator.
  
 Submodules interconnections diagram of "Traffic_light_controller_RTL_..." sources:
